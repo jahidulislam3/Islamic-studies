@@ -15,3 +15,36 @@ header h5{
     padding-bottom: 10px;
     padding-left: 41px;
 }
+#bm-collage {
+   
+    width: 1349px;
+    height: 600px;
+}
+.collage{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: linear-gradient(#19737cbf,#192d7ca6 ) ,url(picture/220343553_1920782644769993_8019205788652774123_n.jpg);
+    background-position: center;
+}
+h1.welcome {
+    text-align: center;
+    padding: 7px 0px;
+    font-size: 45px;
+    background-color: #0982e985;
+    color: red;
+}
+.collage h1 {
+    margin: 224px 10px 13px 146px;
+    text-align: center;
+    color: rgb(0 255 231);
+    font-size: 42px;
+    background: #000000a8;
+    position: absolute;
+    border: 1px solid;
+    padding: 18px;
+    width: 328px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 14px aliceblue;
+    text-shadow: -5px 4px 0px #9a09f4;
+}
