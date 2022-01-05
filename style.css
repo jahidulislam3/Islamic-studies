@@ -1,3 +1,17 @@
-h1{
-    color: blue ;
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    display: flex;
+    background: #00eeff;
+}
+header h5{
+    width: 9%;
+    font-size: 17px;
+    text-align: center;
+    border-right: 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 41px;
 }
